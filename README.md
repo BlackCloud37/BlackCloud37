@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **BlackCloud37/BlackCloud37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![BlackCloud37's GitHub stats](https://github-readme-stats.vercel.app/api?username=BlackCloud37&show_icons=true&theme=radical)
+## My metrics
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackCloud37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Metrics](/github-metrics.svg)
+
+## My heatmap 📅
+
+![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
+
+## My Poops 💩
+
+![Poopmap](/metrics.plugin.poopmap.svg)
