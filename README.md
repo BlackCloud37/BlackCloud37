@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## My metrics
+### My metrics
 
 ![Metrics](/github-metrics.svg)
 
-## My heatmap 📅
+### My heatmap 📅
 
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
 
-## My Poops 💩
+### My Poops 💩
 
 ![Poopmap](/metrics.plugin.poopmap.svg)
