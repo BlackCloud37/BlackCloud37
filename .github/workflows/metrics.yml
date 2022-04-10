@@ -13,6 +13,7 @@ jobs:
       - uses: lowlighter/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Shanghai
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -21,9 +22,11 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          config_timezone: Asia/Shanghai
       - uses: lowlighter/metrics@latest
         with:
           token: NOT_NEEDED
           plugin_poopmap_token: 90b1815349b1b53954109f6c264762fe
           plugin_poopmap: yes
           filename: metrics.plugin.poopmap.svg
+          config_timezone: Asia/Shanghai
