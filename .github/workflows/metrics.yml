@@ -26,3 +26,4 @@ jobs:
           token: NOT_NEEDED
           plugin_poopmap_token: 90b1815349b1b53954109f6c264762fe
           plugin_poopmap: yes
+          filename: metrics.plugin.poopmap.svg
