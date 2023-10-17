@@ -15,16 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm an undergraduate from Tsinghua University, School of Software.
-- I program when I'm bored.
-- My [learning](https://github.com/BlackCloud37/Learning) list.
-
 ### Heatmap 📅
 
 ![Isocalendar](/metrics.plugin.isocalendar.fullyear.svg)
 
-
-### 💩 My Poops 💩
-
-![Poopmap](/metrics.plugin.poopmap.svg)
 
